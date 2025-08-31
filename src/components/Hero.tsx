@@ -56,7 +56,7 @@ const Hero = () => {
           {/* Professional Photo Section */}
           <div className="flex justify-center lg:justify-end">
             <div className="relative">
-<div className="w-56 h-56 sm:w-80 sm:h-80 md:w-96 md:h-96 rounded-full gradient-primary p-1 animate-glow-pulse">
+              <div className="w-80 h-80 md:w-96 md:h-96 rounded-full gradient-primary p-1 animate-glow-pulse">
                 <div className="w-full h-full rounded-full bg-background flex items-center justify-center overflow-hidden">
                   {/* Placeholder for professional photo */}
                   <div className="w-full h-full bg-muted rounded-full flex items-center justify-center text-muted-foreground">
