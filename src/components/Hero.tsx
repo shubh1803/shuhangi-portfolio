@@ -64,11 +64,14 @@ const Hero = () => {
                       <div className="w-24 h-24 mx-auto mb-4 rounded-full bg-primary/20 flex items-center justify-center">
                         <Mail className="h-12 w-12 text-primary" />
                       </div>
-                      <img
-    src="public/profile.png"   // place your photo in /public/profile.jpg
+                  <div className="flex justify-center">
+  <img
+    src="/profile.png"
     alt="Shubhangi Gaikwad"
-    className="w-full h-full object-cover rounded-full"
+    className="w-32 h-32 sm:w-48 sm:h-48 object-cover rounded-full"
   />
+</div>
+
                     </div>
                   </div>
                 </div>
