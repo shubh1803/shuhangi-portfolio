@@ -65,7 +65,7 @@ const Hero = () => {
                         <Mail className="h-12 w-12 text-primary" />
                       </div>
                       <img
-    src="/profile.png"   // place your photo in /public/profile.jpg
+    src="public/profile.png"   // place your photo in /public/profile.jpg
     alt="Shubhangi Gaikwad"
     className="w-full h-full object-cover rounded-full"
   />
