@@ -31,19 +31,10 @@ const About = () => {
         
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6 animate-slide-in">
-            <p className="text-lg text-muted-foreground leading-relaxed">
-              I'm a passionate full-stack software developer with 8 months of professional experience at 
-              <span className="text-primary font-semibold"> etaxwala Sambhajinagar</span>. 
-              I specialize in creating comprehensive business solutions including CRM systems, loan applications, 
-              and microfinance platforms using modern web and mobile technologies.
-            </p>
-            
-            <p className="text-lg text-muted-foreground leading-relaxed">
-              My expertise spans across frontend technologies like React and Flutter, backend development 
-              with Node.js, PHP, and Laravel, along with database management. I'm passionate about building 
-              scalable, user-friendly applications that solve real-world business challenges in the financial 
-              and enterprise sectors.
-            </p>
+           <p className="text-lg text-muted-foreground leading-relaxed">
+  I'm a full-stack developer with 8 months of experience at <span className="text-primary font-semibold">etaxwala Sambhajinagar</span>, building business solutions like CRM systems and microfinance platforms. I work with React, Flutter, Node.js, PHP, and Laravel to create scalable, user-friendly applications for financial and enterprise sectors.
+</p>
+
             
             <div className="flex flex-wrap gap-2 pt-4">
               <Badge variant="secondary">JavaScript</Badge>
